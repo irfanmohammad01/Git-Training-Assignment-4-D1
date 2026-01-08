@@ -1,0 +1,1 @@
+Support Vector Machine (SVM) is a supervised machine learning algorithm used for both classification and regression tasks. Its primary goal is to find the optimal hyperplane that separates data points of different classes with the maximum margin. This makes SVM particularly effective for binary classification problems like spam detection or image classification.
